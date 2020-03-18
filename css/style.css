@@ -69,9 +69,16 @@ a:focus {
   outline: 0px solid;
 }
 
-img {
+/* img {
   max-width: 100%;
   height: auto;
+} */
+
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
 }
 
 .fix {
@@ -941,6 +948,18 @@ div#preloader {
   opacity: 0;
 }
 
+/* .team-img>a::after {
+    background: rgba(0, 0, 0, 0.70);
+    bottom: 0;
+    content: "";
+    height: 100%;
+    left: 0;
+    position: absolute;
+    transition: all 0.5s ease 0s;
+    width: 100%;
+    opacity: 0;
+} */
+
 .team-social-icon {
   left: 50%;
   margin-left: -61px;
@@ -962,7 +981,7 @@ div#preloader {
   font-size: 14px;
   height: 34px;
   line-height: 35px;
-  margin: 0 3px;
+  margin: 0 13px;
   width: 34px;
 }
 
