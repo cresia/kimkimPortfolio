@@ -2373,3 +2373,15 @@ span.email-notes {
 /*----------------------------------------
  .End CSS
 ----------------------------------------*/
+
+
+/* ---------------- for ipads patroit --------------- */
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : portrait) {
+
+.single-team-member {
+    border: 1px solid #ddd;
+    margin-bottom: 4rem;
+    height: 39rem;
+}
+
+}
