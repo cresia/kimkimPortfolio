@@ -78,7 +78,8 @@ img {
     max-width: 100%;
     height: auto;
     display: block;
-    margin: 0 auto;
+    /* margin: 0 auto; */
+     margin: -2px auto;
 }
 
 .fix {
@@ -86,7 +87,7 @@ img {
 }
 
 p {
-  margin: 0 0 15px;
+  margin: 0px 6px 15px;
   color: #444;
 }
 
@@ -219,7 +220,8 @@ div#preloader {
 }
 
 .area-padding {
-  padding: 70px 0px 80px;
+  /* padding: 70px 0px 80px; */
+   padding: 55px 0px 80px;
 }
 
 .area-padding-2 {
