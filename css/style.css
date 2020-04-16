@@ -2370,6 +2370,67 @@ span.email-notes {
   padding-top: 30px;
 }
 
+.jsImg{
+  width:14rem;
+  height:13rem
+}
+
+.cssImg{
+  width:12rem;
+  height:13rem
+}
+
+.htmlImg{
+  width:14rem;
+  height:13rem
+}
+
+.gitHubImg{
+  width:15rem;
+  height:12rem
+}
+
+.reactImg{
+  width:14rem;
+  height:13rem
+}
+
+.adobeImg{
+ width:19rem;
+ height:13rem
+}
+
+.phpImg{
+  width:16rem;
+  height:12rem
+}
+
+.jqueryImg{
+  width:16rem;
+  height:15rem
+}
+
+.bootstrapImg{
+ width:15rem;
+ height:15rem
+}
+
+.gitImg{
+ width:19rem;
+ height:9rem
+}
+
+.mysqlImg{
+  width:15rem;
+  height:9rem
+}
+
+.nodejsImg{
+ width:17rem;
+ height:10rem
+}
+
+
 /*----------------------------------------
  .End CSS
 ----------------------------------------*/
