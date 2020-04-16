@@ -2445,6 +2445,10 @@ span.email-notes {
     height: 39rem;
 }
 
+.area-padding {
+    padding: 55px 0px 45px;
+  }
+
 }
 
 
@@ -2515,13 +2519,74 @@ span.email-notes {
     margin-top: -10rem;
   }
 
-
-
-
 }
 
 
 /* ------------------ for iphone landscape ----------------- */
 @media only screen and (min-device-width: 375px) and (max-device-height: 667px) and (orientation : landscape) and (-webkit-device-pixel-ratio: 2){
+   .area-padding {
+    padding: 44px 0px 40px;
+  }
+
+  .jsImg{
+    width: 13rem;
+    height: 11rem;
+  }
+
+  .cssImg{
+    width: 10rem;
+    height: 12rem;
+  }
+
+  .htmlImg{
+    width: 14rem;
+    height: 12rem;
+  }
+
+  .gitHubImg{
+    width: 14rem;
+    height: 12rem;
+  }
+
+  .reactImg{
+    width: 14rem;
+    height: 12rem;
+  }
+
+  .adobeImg{
+    width: 16rem;
+    height: 12rem;
+  }
+
+  .phpImg{
+    width: 14rem;
+    height: 12rem;
+  }
+
+  .jqueryImg{
+    width: 16rem;
+    height: 14rem;
+  }
+
+  .bootstrapImg{
+    width: 15rem;
+    height: 13rem;
+  }
+
+  .gitImg{
+    width: 16rem;
+    height: 9rem;
+  }
+
+  .mysqlImg{
+    width: 12rem;
+    height: 9rem;
+  }
+
+  .nodejsImg{
+    width: 13rem;
+    height: 9rem;
+    margin-top: -10rem;
+  }
 
 }
